@@ -103,7 +103,7 @@ user@orangepizero3:~$ sudo i2cdetect -y 3
 **5）克隆本仓库**
 
 ```
-git clone https://github.com/Temperature6/OPi4_RTDevInfo.git
+git clone https://github.com/ChinaYingXi/OPi4_RTDevInfo.git
 ```
 
 **6）进入文件夹**
